@@ -3,7 +3,7 @@
 	width:495px;
 	text-align: center;
 	height:50px;
-	margin:25px;
+	margin:15px;
 	margin-left: 400px;
 
 }
@@ -14,10 +14,10 @@ body {
 }
 section {
 	background-color: #ebebeb;
-	width:272px;
+	width:282px;
 	height:150px;
 	margin-left:400px;
-	margin-right:25px;
+	margin-right:15px;
 	float:left;
 	text-align: center;
 }
