@@ -7,7 +7,7 @@
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-	
+	vertical-align: center;	
 
 }
 .backGround {
@@ -19,8 +19,9 @@
 
 }
 .middleSec {
-	margin:0 auto;
+	text-align: center;
 }
+
 body {
 	
 	font-size:18px;
@@ -78,4 +79,5 @@ aside {
 }
 .artText {
 	color:white;
+	margin-top: 35px;
 }
