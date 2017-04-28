@@ -2,21 +2,36 @@
 	background-color: #ebebeb;
 	width:495px;
 	text-align: center;
-	height:50px;
+	height:75px;
 	margin:15px;
-	margin-left: 400px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	
 
 }
-body {
+.backGround {
 	background-color: #777;
-	page width:960px;
+	width:960px;
+	height:900px;
+	padding-top: 25px;
+	margin:0px auto;
+
+}
+.middleSec {
+	margin:0 auto;
+}
+body {
+	
 	font-size:18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+
 }
 section {
 	background-color: #ebebeb;
 	width:282px;
 	height:150px;
-	margin-left:400px;
 	margin-right:15px;
 	float:left;
 	text-align: center;
@@ -39,6 +54,18 @@ aside {
 	margin-left: 18px;
 	border: 5px;
 	border-color: #777;
+	margin-top: 10px;
+	
+}
+.smallerBoxTwo {
+	width:220px;
+	background-color: #ebebeb;
+	height:25px;
+	text-align: center;
+	margin-left: 18px;
+	border: 5px;
+	border-color: #777;
+	margin-top: 8px;
 	
 }
 .backGroundBox{
