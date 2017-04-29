@@ -9,7 +9,17 @@
   	margin-right: auto;
 
 }
+.bottomBar {
+	background-color: #ebebeb;
+	width:650px;
+	text-align: center;
+	height:75px;
+	margin:5px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 
+}
 .backGround {
 	background-color: #777;
 	width:960px;
@@ -26,38 +36,30 @@
 .smallerBox {
 	width:370px;
 	background-color: #ebebeb;
-	height:25px;
+	height:50px;
 	text-align: center;
-	margin-left: 18px;
-	border: 5px;
-	border-color: #777;
-	margin-top: 10px;
-	
+	margin-left:12px;	
 }
 .smallerBoxTwo {
 	width:370px;
 	background-color: #ebebeb;
-	height:25px;
+	height:50px;
 	text-align: center;
-	margin-left: 18px;
-	border: 5px;
-	border-color: #777;
-	margin-top: 8px;
-	
+	margin-left:12px;		
 }
 .backGroundBox{
-	width:405px;
-	height:100px;
+	width:395px;
+	height:215px;
 	background-color: #777;
-	margin-left: 10px;
+	margin-left: 15px;
 	margin-top: 20px;
 	clear: both;
-
 }
 .artText {
 	color:white;
 	margin-top: 35px;
 }
+
 text {
 	margin-top: 500px;
 }
@@ -71,16 +73,17 @@ body {
 }
 section {
 	background-color: #ebebeb;
-	width:435px;
-	height:150px;
+	width:425px;
+	height:300px;
 	margin-right:15px;
 	float:left;
 	text-align: center;
 }
 aside {
 	background-color: #ebebeb;
-	width:193px;
-	height:150px;
+	width:205px;
+	height:300px;
 	float:right;
 	text-align: center;
 }
+
