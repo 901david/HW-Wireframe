@@ -3,28 +3,32 @@
 	width:650px;
 	text-align: center;
 	height:75px;
-	margin:15px;
+	margin-top: 0;
+	margin-bottom:15px;
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
 
 }
 .bottomBar {
+	clear:both;
 	background-color: #ebebeb;
 	width:650px;
-	text-align: center;
 	height:75px;
-	margin:5px;
+	margin:10px;
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-
+  	text-align: center;
+}
+.centerWhole {
+	padding-top: 15px
 }
 .backGround {
 	background-color: #777;
 	width:960px;
-	height:900px;
-	margin:0px auto;
+	height:650px;
+	margin:auto;
 
 }
 .middleSec {
@@ -38,18 +42,22 @@
 	background-color: #ebebeb;
 	height:50px;
 	text-align: center;
-	margin-left:12px;	
+	margin-left:12px;
+	margin-bottom: 5px;
+	margin-top: 20px;	
 }
 .smallerBoxTwo {
 	width:370px;
 	background-color: #ebebeb;
 	height:50px;
 	text-align: center;
-	margin-left:12px;		
+	margin-left:12px;
+	margin-bottom: 5px;
+	margin-top: 20px;		
 }
 .backGroundBox{
 	width:395px;
-	height:215px;
+	height:248px;
 	background-color: #777;
 	margin-left: 15px;
 	margin-top: 20px;
@@ -58,10 +66,7 @@
 .artText {
 	color:white;
 	margin-top: 35px;
-}
-
-text {
-	margin-top: 500px;
+	padding-top:25px;
 }
 
 body {
@@ -69,12 +74,13 @@ body {
 	font-size:18px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color:#777;
+	margin: 0;
 
 }
 section {
 	background-color: #ebebeb;
 	width:425px;
-	height:300px;
+	height:350px;
 	margin-right:15px;
 	float:left;
 	text-align: center;
@@ -82,8 +88,34 @@ section {
 aside {
 	background-color: #ebebeb;
 	width:205px;
-	height:300px;
+	height:350px;
 	float:right;
 	text-align: center;
 }
+header p {
+	padding-top: 30px;
+	margin:0;
+}
+nav p {
+	padding-top: 30px;
+	margin:0;
+}
+section p {
+	padding-top: 30px;
+	margin:0;
+}
+article p {
+	padding-top: 10px;
+	margin:0;
+	padding-bottom:30px; 
+}
+aside p {
+	padding-top: 175px;
+	margin:0;
+}
+footer p {
+	padding-top: 30px;
+	margin:0;
+}
+
 
