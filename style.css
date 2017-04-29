@@ -20,32 +20,6 @@
 .middleSec {
 	text-align: center;
 }
-text {
-	margin-top: 500px;
-}
-
-body {
-	
-	font-size:18px;
-	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	color:#777;
-
-}
-section {
-	background-color: #ebebeb;
-	width:435px;
-	height:150px;
-	margin-right:15px;
-	float:left;
-	text-align: center;
-}
-aside {
-	background-color: #ebebeb;
-	width:193px;
-	height:150px;
-	float:right;
-	text-align: center;
-}
 .sideBySide {
 	display:inline-block;
 }
@@ -83,4 +57,30 @@ aside {
 .artText {
 	color:white;
 	margin-top: 35px;
+}
+text {
+	margin-top: 500px;
+}
+
+body {
+	
+	font-size:18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color:#777;
+
+}
+section {
+	background-color: #ebebeb;
+	width:435px;
+	height:150px;
+	margin-right:15px;
+	float:left;
+	text-align: center;
+}
+aside {
+	background-color: #ebebeb;
+	width:193px;
+	height:150px;
+	float:right;
+	text-align: center;
 }
